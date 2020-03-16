@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2fdb7b40-a611-4a6d-9555-a4e750160d38" name="测试服务器" url="http://www.zengwf.com">
+        <fileTransfer host="101.37.82.230" port="22" rootFolder="/www/wwwroot/laravel6App" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
